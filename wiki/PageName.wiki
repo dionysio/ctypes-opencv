@@ -1,13 +1,10 @@
-#summary One-sentence summary of this page.
+#summary How to use ctypes-opencv
 
 = Introduction =
 
-Add your content here.
+(to be updated)
 
 
 = Details =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+ctypes-opencv is very easy to use. Just find in the demo package various examples using ctypes-opencv.
