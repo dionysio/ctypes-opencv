@@ -7,4 +7,4 @@
 
 = Details =
 
-ctypes-opencv is very easy to use. Just find in the demo package various examples using ctypes-opencv.
+ctypes-opencv is very easy to use. At the moment, just find in the demo package various examples using ctypes-opencv. More details will be updated soon.
